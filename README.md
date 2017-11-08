@@ -22,7 +22,7 @@ providers {
 
 ## Usage
 
-Once installed, you can provision resources by including an `skeleton` provider block.
+Once installed, you can configure resources by including an `skeleton` provider block.
 
 
 
@@ -41,3 +41,7 @@ Some options
 option- description
 
 ```
+
+Travis build status
+
+[![Build Status](https://travis-ci.org/pyToshka/terraform-provider-skeleton.svg?branch=master)](https://travis-ci.org/pyToshka/terraform-provider-skeleton)
